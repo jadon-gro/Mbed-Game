@@ -23,5 +23,8 @@ These are the list of game-play feature that the code supports and exhibits
 - Multiple Maps: Maps can be created and moved between using portals.
 - Movement: Movement is controlled through an accelerometer; the player moves in the direction you tilt the game.
 
+## File Structure
+The file structure is relatively simple, the name of the file represents the code that it contains (i.e. assets.cpp contains the sprites, speech.cpp contains the speech code) and .h files are the corresponding header files. The main.cpp file contains the map initializations and the actual running game code.
+
 ## Final Notes
 Basic shell code (A few method headers and constructors) and µLCD library was provided by the instructor. All functional portions of the code was written by me. I received a 135/100 grade on this project. Please reach out if you have any questions at jadon.gro@gatech.edu.
