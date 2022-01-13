@@ -3,6 +3,10 @@
 This is the final project for ECE 2035 at Georgia Tech for Fall 2021 semester. All development was done in the online Mbed compiler.
 Project objective was to create a C++ RPG Game with graphics designed to run on mbed LPC1768 microcontroller using a µLCD-144-G2(GFX) screen, buttons and accelerometer for controls.
 
+Apologies for the lack of images. I took apart the system for parts before I took photos of gameplay. I was able to find one photo of the system here:
+
+<img src="https://user-images.githubusercontent.com/71471706/149411685-4dbfb309-9935-464b-acce-6c51370b1ac6.jpg" width="300" height="300">
+
 ## Primary Elements
 These are a list of major functional elements comprising the game.
 1. Hash Table - Hash Table with external chaining collision resolution strategy with proper memory management stores game elements while preventing memory leaks.
