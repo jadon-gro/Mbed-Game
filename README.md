@@ -20,4 +20,4 @@ These are the list of game-play feature that the code supports and exhibits
 - Movement: Movement is controlled through an accelerometer; the player moves in the direction you tilt the game.
 
 ## Final Notes
-Basic shell code (A few method headers and constructors) and µLCD library was provided by the instructor. All functional portions of the code was written by me. I received a 135/100 grade on this project.
+Basic shell code (A few method headers and constructors) and µLCD library was provided by the instructor. All functional portions of the code was written by me. I received a 135/100 grade on this project. Please reach out if you have any questions at jadon.gro@gatech.edu.
